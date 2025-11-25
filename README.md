@@ -1,4 +1,4 @@
-# Project 04 – Jenkins CI/CD Pipeline → AWS ECR → EC2 Deployment (Node.js)
+# Project – Jenkins CI/CD Pipeline → AWS ECR → EC2 Deployment (Node.js)
 
 ## 📌 Project Summary
 This project implements a fully automated CI/CD pipeline using Jenkins, Docker, AWS Elastic Container Registry (ECR), and AWS EC2.
